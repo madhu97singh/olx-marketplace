@@ -178,7 +178,7 @@ Make sure the following are installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/madhu97singh/olx-marketplace.git
 
 cd olx-marketplace
 ```
